@@ -10,3 +10,9 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+- [X] Task list 1
+- [X] Task list 2
+- [ ] Task list 3
+
+
